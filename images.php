@@ -5,8 +5,9 @@ echo '<style type="text/css">
             margin: 0;
             padding: 0;
         }
-        img {
+        video, img {
             width: 100vw;
+            margin: 20px 0;
         }
         </style>';
 
